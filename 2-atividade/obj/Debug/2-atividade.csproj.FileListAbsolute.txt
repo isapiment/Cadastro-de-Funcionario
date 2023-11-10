@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\bin\Debug\2-atividade.exe.config
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\bin\Debug\2-atividade.exe
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\bin\Debug\2-atividade.pdb
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\obj\Debug\2-atividade.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\obj\Debug\2-atividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\obj\Debug\_2_atividade.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\obj\Debug\2-atividade.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\obj\Debug\2-atividade.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\obj\Debug\2-atividade.exe
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\obj\Debug\2-atividade.pdb
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\obj\Debug\_2_atividade.Intro.resources
+C:\Users\Lenovo\source\repos\2-atividade\2-atividade\obj\Debug\_2_atividade.CadastroFun.resources

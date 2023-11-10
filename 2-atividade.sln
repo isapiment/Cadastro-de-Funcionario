@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-atividade", "2-atividade\2-atividade.csproj", "{9996A862-B52D-41B7-84CB-E2CCCB43FD31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modelos", "Modelos", "{DB0007F8-10AA-4532-AA17-3C38DA1F87A8}"
+	ProjectSection(SolutionItems) = preProject
+		2-atividade\Form1.cs = 2-atividade\Form1.cs
+		2-atividade\Form1.Designer.cs = 2-atividade\Form1.Designer.cs
+		2-atividade\Form1.resx = 2-atividade\Form1.resx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Uteis", "Uteis", "{E74CAE9F-A327-405D-A360-631B30158CD6}"
+	ProjectSection(SolutionItems) = preProject
+		2-atividade\Funcionario.cs = 2-atividade\Funcionario.cs
+		2-atividade\Validacaocs.cs = 2-atividade\Validacaocs.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9996A862-B52D-41B7-84CB-E2CCCB43FD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9996A862-B52D-41B7-84CB-E2CCCB43FD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9996A862-B52D-41B7-84CB-E2CCCB43FD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9996A862-B52D-41B7-84CB-E2CCCB43FD31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8B33A06-9D82-42F1-9FB7-81E6715FA86D}
+	EndGlobalSection
+EndGlobal
